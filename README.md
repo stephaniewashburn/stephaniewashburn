@@ -2,20 +2,19 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>Machine Learning Projects/ Python Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Machine Learning / Python</b>
+  - Aviation Flight Risk Forecasting (NASA ASRS) – Built SARIMAX and time series models to forecast aviation safety incident trends from NASA’s ASRS dataset. Preprocessed raw reports, engineered features, and evaluated models with RMSE/MAE to assess predictive performance, providing insights into 2024–2025 risk factors.
+  - Education Program Forecasting – Developed machine learning pipelines to forecast future cohorts for a non-profit education mentorship program. Implemented one-hot encoding and Ridge regression, optimized hyperparameters, and delivered interpretable results to support organizational planning.
+  
 - <b>SQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - Website Engagement Analytics (Google Analytics Sample Data) – Queried BigQuery sample data to calculate user retention, conversion funnels, and traffic trends, demonstrating how SQL can uncover actionable business insights.
+  - COVID-19 Trends Analysis (Our World in Data) – Used SQL to aggregate and compare global case counts, vaccination rates, and mortality trends across countries, highlighting the use of SQL for public health monitoring and time-series reporting.
+
 - <b>R</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Deepfake Image Detection (fMRI + Behavioral Data) – Cleaned and analyzed multimodal datasets to study how participants detect AI-generated deepfake faces. Applied GLM modeling in R and FreeSurfer-derived brain data to identify neural correlates of detection accuracy.
+  - Life Sampling Data Cleaning (Longitudinal Aging Study) – Processed and harmonized millions of observations from ecological momentary assessments (EMA). Built R pipelines to clean, filter, and visualize high-frequency time-series data, enabling downstream statistical modeling of age-related decision-making.
+
+
 
 <h2>📺 View my research</h2>
 
