@@ -8,7 +8,7 @@ See all in repositories!
   - Education Program Forecasting – Developed machine learning pipelines to forecast future cohorts for a non-profit education mentorship program. Implemented one-hot encoding and Ridge regression, optimized hyperparameters, and delivered interpretable results to support organizational planning.
   
 - <b>SQL</b>
-- Loaded COVID-19 data into SQLite and used SQL to: calculate daily new cases, roll up monthly totals for the last 3 months, spot peak new-case days, and report deaths per million and CFR. Exported outputs to CSV.
+  - Loaded COVID-19 data into SQLite and used SQL to: calculate daily new cases, roll up monthly totals for the last 3 months, spot peak new-case days, and report deaths per million and CFR. Exported outputs to CSV.
 
 - <b>R</b>
   - Deepfake Image Detection (fMRI + Behavioral Data) – Cleaned and analyzed multimodal datasets to study how participants detect AI-generated deepfake faces. Applied GLM modeling in R and FreeSurfer-derived brain data to identify neural correlates of detection accuracy.
